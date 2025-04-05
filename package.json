@@ -1,0 +1,27 @@
+{
+  "name": "hability-web",
+  "version": "1.0.0",
+  "description": "Proyecto para evaluar el efecto de una plataforma web en el desarrollo de habilidades lectoescritoras.",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naanananitaa/hability-app.git"
+  },
+  "author": "Natalie Perez Roman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naanananitaa/hability-app/issues"
+  },
+  "homepage": "https://github.com/Naanananitaa/hability-app#readme",
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-scripts": "^5.0.1"
+  }
+}
