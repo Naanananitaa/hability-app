@@ -1,5 +1,6 @@
 import React from 'react';
-import './Header.css';
+import '/hability-web/src/styles/Header.css'; // Asegúrate de que la ruta sea correcta
+// Importa el CSS específico para el Header
 
 function Header() {
   return (
